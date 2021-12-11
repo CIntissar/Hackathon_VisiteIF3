@@ -1251,14 +1251,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 386234470}
-  selectedCommands:
-  - {fileID: 386234465}
-  - {fileID: 386234460}
-  - {fileID: 386234473}
-  - {fileID: 386234472}
-  - {fileID: 386234471}
-  - {fileID: 386234475}
+  - {fileID: 386234440}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -5921,7 +5915,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8679245, g: 0.05322181, b: 0.05322181, a: 1}
+  m_Color: {r: 0.3019608, g: 0.40784314, b: 0.85882354, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -5930,7 +5924,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 79197ecfbc3a4294a89ce589dac02cf2, type: 3}
-    m_FontSize: 180
+    m_FontSize: 100
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
