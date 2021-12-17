@@ -4614,7 +4614,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 477.31824
-    y: 218.72726
+    y: 219.72726
     width: 124
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4648,10 +4648,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 446.0838, y: -58.71042}
+  scrollPos: {x: 353.0838, y: -104.71042}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 280
+  blockViewHeight: 567
   zoom: 1
   scrollViewRect:
     serializedVersion: 2
@@ -4660,9 +4660,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1134692287}
+  - {fileID: 1134692291}
   selectedCommands:
-  - {fileID: 1134692302}
+  - {fileID: 1134692289}
   variables: []
   description: 
   stepPause: 0
@@ -5621,7 +5621,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -229.13776
-    y: 311.7011
+    y: 312.7011
     width: 162
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -5916,7 +5916,7 @@ MonoBehaviour:
   indentLevel: 0
   _duration:
     floatRef: {fileID: 0}
-    floatVal: 2
+    floatVal: 5
   durationOLD: 0
 --- !u!114 &1134692300
 MonoBehaviour:
@@ -5939,7 +5939,7 @@ MonoBehaviour:
   sceneNameOLD: 
 --- !u!114 &1134692301
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5959,7 +5959,7 @@ MonoBehaviour:
   fadeTweenType: 4
 --- !u!114 &1134692302
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6886,8 +6886,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1013.7, y: -538.64}
-  m_SizeDelta: {x: 2027.419, y: 1077.286}
+  m_AnchoredPosition: {x: -1512, y: -538.64}
+  m_SizeDelta: {x: 2995, y: 1077.286}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &1385380376
 GameObject:
